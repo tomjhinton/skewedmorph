@@ -1,0 +1,8 @@
+{
+  "name": "skewedmorph",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tomjhinton/skewedmorph.git",
+  "author": "Tom Hinton <tomjhinton@gmail.com>",
+  "license": "MIT"
+}
